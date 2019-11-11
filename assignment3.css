@@ -1,0 +1,95 @@
+#wrapper{
+  width:1400px;
+  height:1000px;
+}
+
+#header{
+  width:1400px;
+  height:200px;
+  background-color: grey;
+  margin: 0 auto;
+}
+
+#SuzanneCollins{
+  width:250px;
+  height:200px;
+}
+
+#mainHeader{
+  position:absolute;
+  top:75px;
+  left:450px;
+  font-size: 50px;
+}
+
+#BoxLeft{
+  width:75px;
+  height:75px;
+  margin:10px 25px 10px 25px;
+  background-color: blue;
+  position: relative;
+  left:1300px;
+}
+
+#facebook{
+  width:75px;
+  height:75px;
+  margin:10px 25px 10px 25px;
+  position: relative;
+  left:1300px;
+}
+
+#BoxLeft2{
+  width:75px;
+  height:75px;
+  margin:10px 25px 10px 25px;
+  background-color: blue;
+  position: relative;
+  left:1300px;
+}
+
+#twitter{
+  width:75px;
+  height:75px;
+  margin:10px 25px 10px 25px;
+  position: relative;
+  left:1300px;
+}
+
+#BoxOne
+{
+  width:200px;
+  height:200px;
+  margin:10px 25px 10px 25px;
+  background-color: yellow;
+}
+
+#hungergames{
+  width: 75px;
+  height: 75px;
+}
+
+#catchingfire{
+  width: 75px;
+  height: 75px;
+}
+
+#mockingjay{
+  width: 75px;
+  height: 75px;
+}
+
+#BoxTwo
+{
+  width:200px;
+  height:100px;
+  margin:10px 25px 10px 25px;
+}
+
+#BoxThree
+{
+  width:150px;
+  height:50px;
+  margin:15px 15px 15px 15px;
+  float:left;
+}
